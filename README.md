@@ -1,3 +1,3 @@
 # no-hello-world
 not my first repository
-`$\sum_{i=1}^{\infity}$`
+`$\sum_{i=1}^{\infty}$`
